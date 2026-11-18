@@ -1,0 +1,3 @@
+# text files stay LF
+* text=auto eol=lf
+*.png binary

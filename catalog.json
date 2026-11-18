@@ -1,0 +1,4 @@
+{
+  "about": "Read by every Goyo at each look (catalog.CATALOG_URL): an app here with a new id is added, one with a known id has its fields replaced, \"hidden\": true takes it out. A new app needs id, name, line, manifest, page, guid (its Inno Setup AppId), exe and closes_itself (true when its installer stops it and starts it again), and its icon at assets/apps/<id>.png in the next Goyo (a grey tile until then).",
+  "apps": []
+}
